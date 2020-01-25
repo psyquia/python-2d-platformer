@@ -3,5 +3,5 @@
  *made for my little brother, Carlo*
 
 
- ***Instructions***
+ ***Instructions:***
  - run "python carlo_game.py"
